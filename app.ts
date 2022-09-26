@@ -1,4 +1,7 @@
+(()=>{
 const a: number = 10;
-let b: number;
+console.log(a)
+})()
 
-b = 3,1416;
+
+
