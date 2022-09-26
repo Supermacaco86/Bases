@@ -1,2 +1,4 @@
-const msg: string = "hola mundo";
-console.log(msg)
+const a: number = 10;
+let b: number;
+
+b = 3,1416;
