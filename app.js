@@ -22,4 +22,5 @@ const unirheroes = (...personas) => {
 // Tipo funcion
 const noHaceNada = (numero, texto, booleano, arreglo) => { };
 // Crear el tipo de funcion que acepte la funcion "noHaceNada"
-let noHaceNadaTampoco = (n, s, b, a) => noHaceNadaTampoco = noHaceNada;
+let noHaceNadaTampoco;
+noHaceNadaTampoco = noHaceNada;
